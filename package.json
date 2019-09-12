@@ -1,0 +1,10 @@
+{
+  "name": "bootstrap-boilerplate",
+  "version": "0.1.0",
+  "description": "Twitter Bootstrap 4 Boilerplate is a professional front-end template for building fast, robust, and adaptable web apps or sites.",
+  "main": "index.js",
+  "repository": "https://github.com/kuldipem/bootstrap-boilerplate.git",
+  "author": "KULDIP PIPALIYA <kuldipem@gmail.com>",
+  "license": "BSD-3-Clause",
+  "private": false
+}

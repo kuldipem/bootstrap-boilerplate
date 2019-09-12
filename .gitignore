@@ -1,0 +1,2 @@
+# ignore libraries from version controlls
+/node_modules
